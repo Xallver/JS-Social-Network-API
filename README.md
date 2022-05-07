@@ -28,6 +28,10 @@ This repo is not to be deployed, if you wanted to, you could by doing the follow
 ```
 5. Open Insomnia Core to test API routes
 
+## Usage
+
+[Walkthrough Video](https://drive.google.com/file/d/12MxDOSzcC2xfqUzu1l-gNVoPaNSRliDi/view)
+
 ## Licensing:
 [![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)
 
