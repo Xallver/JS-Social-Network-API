@@ -10,7 +10,6 @@ const {
   deleteReaction
 } = require('../../controllers/thought-controller');
 
-const { route } = require('./user-routes');
 
 // Set up GET all and POST at /api/thoughts
 router
